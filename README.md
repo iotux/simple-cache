@@ -1,6 +1,6 @@
 # Simple-Cache
 
-Simple-Cache is a simple caching library for Node.js applications. It is a slimmed down version of **@iotux/uni-cache**.
+Simple-Cache is zero dependency simple caching library for Node.js applications. It is a slimmed down version of **@iotux/uni-cache**.
 This module is preferred in small systems where memory size is a concern or when database storage is not needed.
 It presents a single API across in-memory and file  backends, making it straightforward to switch storage engines without rewriting business logic.
 

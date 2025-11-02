@@ -1,7 +1,7 @@
 {
   "name": "@iotux/simple-cache",
-  "version": "0.1.1",
-  "description": "A versatile caching library with support for in-memory and file backends.",
+  "version": "0.1.2",
+  "description": "A zero depandency caching library with support for in-memory and file backends.",
   "main": "src/UniCache.js",
   "scripts": {
     "test": "echo \"No tests specified\" && exit 1"
